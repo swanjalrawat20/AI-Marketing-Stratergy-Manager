@@ -1,0 +1,8 @@
+streamlit>=1.37
+plotly>=5.22
+python-dotenv>=1.0
+groq>=0.11
+openai-agents>=0.0.19
+pydantic>=2.7
+requests>=2.31
+pytest>=8.0
